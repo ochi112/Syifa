@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Surprise THR Buat Kamu 🎉</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom, #ffe8ec, #fff);
+      text-align: center;
+      padding: 60px;
+      color: #444;
+    }
+    h1 {
+      font-size: 36px;
+      color: #cc3366;
+    }
+    p {
+      font-size: 20px;
+      margin: 20px 0;
+    }
+    .gift-box {
+      font-size: 100px;
+      animation: bounce 2s infinite;
+    }
+    .btn {
+      background-color: #ff5c8d;
+      color: white;
+      padding: 14px 28px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      margin-top: 30px;
+    }
+    .btn:hover {
+      background-color: #ff3366;
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="gift-box">🎁</div>
+  <h1>Hai Teman Jauh 🌍</h1>
+  <p>Kita belum pernah ketemu langsung, tapi aku tetap ingin kamu merasa dihargai dan diingat 🥺</p>
+  <p>Di momen ini, aku kirim sedikit kebahagiaan buat kamu... klik tombol di bawah ya!</p>
+
+  <a href="https://shopee.co.id/insert-link-THR-mu-di-sini" target="_blank">
+    <button class="btn">🎉 Ambil THR Surprise 🎉</button>
+  </a>
+
+  <p style="margin-top:40px; font-size:14px;">*link bisa kamu atur sesuai voucher atau metode transfer Shopee</p>
+
+</body>
+</html>
